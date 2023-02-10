@@ -20,3 +20,4 @@ int main()
     }
     cout<<cont/3<<endl;
 }
+  
